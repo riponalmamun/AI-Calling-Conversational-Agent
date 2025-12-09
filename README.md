@@ -1,4 +1,3 @@
-
 # 🤖 AI Calling Conversational Agent
 
 <div align="center">
@@ -357,14 +356,13 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 **Md. Ripon Al Mamun**
 
 - 🐙 GitHub: [@riponalmamun](https://github.com/riponalmamun)
-- 📧 Email: riponalmamun@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 📧 Email: riponalmamunrasel@gmail.com
+- 💼 LinkedIn: [Md. Ripon Al Mamun](https://www.linkedin.com/in/mdriponalmamun/)
 
 ### Getting Help
 
 - 📖 Check the [Documentation](https://github.com/riponalmamun/AI-Calling-Conversational-Agent/wiki)
 - 🐛 Report bugs via [GitHub Issues](https://github.com/riponalmamun/AI-Calling-Conversational-Agent/issues)
-- 💬 Join our [Discord Community](https://discord.gg/yourserver)
 - ⭐ Star the project if you find it useful!
 
 ---
